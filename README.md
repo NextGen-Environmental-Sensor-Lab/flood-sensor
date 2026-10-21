@@ -35,9 +35,7 @@ Further, [Gateway](https://github.com/floodnet-nyc/floodnet-gateway) and [NodeRE
 <br>
 
 # How to build a flood sensor
-This section contains the necessary resources to build a flood sensor from the raw materials state to a final product. 
-
-## BOM
+## BOM - bill of materials
   - The total sensor cost per unit is below $200. 
   - When mounting hardware is included the total cost of the sensor plus mounting hardware comes around $210. 
   - A list of complete bill of materials for the sensor and mounting hardware is available in the [BOM](https://github.com/floodnet-nyc/flood-sensor/tree/main/hardware/BOM.md) document.
