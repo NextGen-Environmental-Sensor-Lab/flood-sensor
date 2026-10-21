@@ -17,13 +17,6 @@
 <br>
 This repository houses information regarding the build, deployment, and maintenance of the FloodnNet project's flood sensor.
 
-- [About FloodNet](#about-floodnet)
-- [How to build a flood sensor](#how-to-build-a-flood-sensor)
-- [How to deploy a flood sensor](#how-to-deploy-a-flood-sensor)
-- [How to maintain a flood sensor](#how-to-maintain-a-flood-sensor)
-- [How to submit an issue](#how-to-submit-an-issue)
-- [Additional resources](#additional-resources)
-
 If you make use of the hardware designs and firmware in this repository for any purpose, the project should be listed as “FloodNet (New York University and The City University of New York)”, and cited as the following:
 
 Mydlarz, C., Sai Venkat Challagonda, P., Steers, B., Rucker, J., Brain, T., Branco, B., Burnett, H.E., Kaur, A., Fischman, R., Graziano, K., Krueger, K., Henaff, E., Ignace, V., Jozwiak, E., Palchuri, J., Pierone, P., Rothman, P., Toledo-Crow, R., Silverman, A.I. (2024) FloodNet: Low-cost ultrasonic sensors for real-time measurement of hyperlocal, street-level floods in New York City. Water Resources Research, 60, e2023WR036806. https://doi.org/10.1029/2023WR036806
