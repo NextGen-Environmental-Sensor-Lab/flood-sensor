@@ -40,7 +40,7 @@ Further, [Gateway](https://github.com/floodnet-nyc/floodnet-gateway) and [NodeRE
   - When mounting hardware is included the total cost of the sensor plus mounting hardware comes around $210. 
   - A list of complete bill of materials for the sensor and mounting hardware is available in the [BOM](https://github.com/floodnet-nyc/flood-sensor/tree/main/hardware/BOM.md) document.
 
-## Sensor build instructions with Quality Assurance Procedures
+## Sensor build instructions
   - The step-by-step sensor build instructions including images and quality assurance steps are detailed in the [Sensor build with Quality Assurance Procedures](https://floodnet-nyc.github.io//quality-management/sensor-assembly-qap/) page on the FloodNet's documentation website to ensure high quality sensor builds with consistency.
 
 ## Installing firmware, provisioning on TheThingsNetwork, and getting data to Google Sheets example
