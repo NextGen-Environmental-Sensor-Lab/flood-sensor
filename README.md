@@ -47,7 +47,7 @@ This section contains the necessary resources to build a flood sensor from the r
 ## Sensor build instructions with Quality Assurance Procedures
   - The step-by-step sensor build instructions including images and quality assurance steps are detailed in the [Sensor build with Quality Assurance Procedures](https://floodnet-nyc.github.io//quality-management/sensor-assembly-qap/) page on the FloodNet's documentation website to ensure high quality sensor builds with consistency.
 
-### Installing sensor software
+# Installing firmware, provisioning on TheThingsNetwork, and getting data to Google Sheets example
   - After the sensor assembly stage is the installation of the sensor firmware. To install the sensor's firmware follow the steps detailed in the of the firmware folder's [README.md](https://github.com/NextGen-Environmental-Sensor-Lab/flood-sensor/tree/main/firmware#readme). 
 
 ## Quality Control and testing
