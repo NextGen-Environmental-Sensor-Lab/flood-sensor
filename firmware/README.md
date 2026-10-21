@@ -1,5 +1,5 @@
+## Firmware Technical Documentation - Installation and setup
 # Installing firmware, provisioning on TheThingsNetwork, and getting data to Google Sheets example
-# Firmware Technical Documentation - Installation and setup
 ## The Things Network: Applications and Devices
 
 The Things Network (TTN), sometimes called The Things Stack (TTS), is a cloud based LoRaWAN managing service with a free membership type. We use it to manage the Gateways and devices (sensors). You will need the following: 
